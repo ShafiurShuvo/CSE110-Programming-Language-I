@@ -1,3 +1,0 @@
-Name: John, Score: 123455
-Name: Mary, Lives Used: 1
-Name: John, Games Played: 4
