@@ -4,7 +4,7 @@ Welcome to the **CSE110 - Programming Language I** repository. This repository c
 
 ## 📝 Assignments Overview
 
-| No.  | Topic                     | File Link |
+| Assignment  | Topic                     | File Link |
 |-------|---------------------------|-----------|
 | 1     | Branching                 | [Assignment 01](CSE110_Lab_Assignment_01_(Branching).ipynb) |
 | 2     | Loops                     | [Assignment 02](CSE110_Lab_Assignment_02_(Loops).ipynb) |
