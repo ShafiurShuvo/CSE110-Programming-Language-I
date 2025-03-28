@@ -24,3 +24,8 @@ Welcome to the **CSE110 - Programming Language I** repository. This repository c
    ```
 2. Open the assignments using Jupyter Notebook or Google Colab.
 3. Follow the instructions inside each assignment.
+
+
+### 📩 **Download File I/O & Exception Folder**
+Download the **Entire Folder** of Lab Assignment 08 - **File I/O & Exception** from the following link:  
+🔗 **[Download Folder](https://drive.google.com/uc?export=download&id=1zw6G7lFRDZV6nnCCAv0FDUHxaaeqE1CT)**  
