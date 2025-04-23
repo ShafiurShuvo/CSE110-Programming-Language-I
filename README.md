@@ -1,6 +1,6 @@
 # CSE110 - Programming Language I
 
-Welcome to the **CSE110 - Programming Language I** repository. This repository contains all the lab assignments for the course (done in Fall'21), organized for easy access and reference.
+Welcome to the **CSE110 - Programming Language I** repository. This repository contains all the lab assignments for the course (done in **Fall'21**), organized for easy access and reference.
 
 ## 📝 Assignments Overview
 
