@@ -30,7 +30,7 @@ Welcome to the **CSE110 - Programming Language I** repository. This repository c
    git clone https://github.com/ShafiurShuvo/CSE110-Programming-Language-I.git
    ```
    OR
-   📦 [Download Zip](https://github.com/ShafiurShuvo/CSE111-Programming-Language-II/archive/refs/heads/main.zip)
+   📦 [Download Zip](https://github.com/ShafiurShuvo/CSE110-Programming-Language-I/archive/refs/heads/main.zip)
 3. Open the assignments using Jupyter Notebook or Google Colab.
 4. Follow the instructions inside each assignment.
 
